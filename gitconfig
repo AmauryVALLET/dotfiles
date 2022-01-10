@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = amaury.vallet@gmail.com
+	name = Amaury Vallet
